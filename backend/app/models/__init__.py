@@ -4,3 +4,4 @@ from app.models.lote import Lote
 from app.models.tanda_siembra import tandaSiembra
 from app.models.detalle_bandeja import detalleBandeja
 from app.models.etapa import Etapa
+from app.models.movimiento import Movimiento
